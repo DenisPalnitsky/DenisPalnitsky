@@ -5,6 +5,8 @@
 
 ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🤔 My active open-source projects
 
 [![Go Generic Cache](https://github-readme-stats.vercel.app/api/pin/?username=testhub-io&repo=testhub)](https://github.com/testhub-io/testhub)
