@@ -3,7 +3,7 @@
 🔭 I’m currently working on something cool that I can't tell yet. 
 
 
-![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true)
+![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true&count_private=true)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
