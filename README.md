@@ -1,11 +1,12 @@
 # Hi there 👋
 
-🔭 I’m currently working on something cool that I can't tell yet. 
+🔭 Product engineer 
 
 
 ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true&count_private=true)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ## 🤔 My active open-source projects
 
@@ -16,3 +17,10 @@
 ## 😞 Not so active projects:
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
   - Automock Visual Studio extension https://github.com/DenisPalnitsky/automock 
+
+## Profiles 
+- [Linkedin](https://www.linkedin.com/in/denis-palnitsky/) 
+- [Twitter](https://twitter.com/Number30)
+- <a href="https://stackexchange.com/users/85406"><img src="https://stackexchange.com/users/flair/85406.png" width="208" height="58" alt="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
+
+ 
