@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 Product engineer 
+🔭 I'm a product engineer 
 
 
 ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true&count_private=true)
