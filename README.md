@@ -23,4 +23,7 @@
 - [Twitter](https://twitter.com/Number30)
 - <a href="https://stackexchange.com/users/85406"><img src="https://stackexchange.com/users/flair/85406.png" width="208" height="58" alt="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
 
+## Engineering Principles
+[PRINCIPLES.md](https://github.com/DenisPalnitsky/DenisPalnitsky/blob/main/PRINCIPLES.md)
+
  
