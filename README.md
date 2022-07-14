@@ -1,12 +1,8 @@
 # Hi there 👋
 
-🔭 I'm a product engineer 
-
+🔭 I'm Denis, a product engineer, and sport enthusiast
 
 ![Denis's github stats](https://github-readme-stats.vercel.app/api?username=DenisPalnitsky&show_icons=true&count_private=true)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 ## 🤔 My active open-source projects
 
@@ -20,10 +16,12 @@
 
 ## 📱 Profiles 
 - [Linkedin](https://www.linkedin.com/in/denis-palnitsky/) 
+- [CV](http://denispalnitsky.com/)
 - [Twitter](https://twitter.com/Number30)
 - <a href="https://stackexchange.com/users/85406"><img src="https://stackexchange.com/users/flair/85406.png" width="208" height="58" alt="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Denis Palnitsky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
 
-## 😎 Engineering Principles
+## :mortar_board: Engineering Principles
 [PRINCIPLES.md](https://github.com/DenisPalnitsky/DenisPalnitsky/blob/main/PRINCIPLES.md)
 
- 
+## 😎 Cool Thing
+![](./profile-3d-contrib/profile-green-animate.svg)
