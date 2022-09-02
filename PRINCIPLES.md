@@ -16,7 +16,7 @@ In a dynamic environment, it’s impossible to predict requirements upfront so i
 ## [Prefer convention over Configuration](https://en.wikipedia.org/wiki/Convention_over_configuration)
 A service or a system should run out of the box with the default configuration. 
 
-## Follow Api First Approach
+## Api First 
 API is a first-class citizen. Internal user-facing applications should use the same API that is exposed externally. 
 
 ## [Prefer consistency in code and architecture](https://skiplist.com/insights/blog-software-principle-6-consistency-is-king)
