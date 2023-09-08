@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 I'm Denis, a product engineer, and sport enthusiast
+🔭 I'm Denis, a product engineer, and sports enthusiast
 
 
 ## 🤔 My active open-source projects
@@ -9,7 +9,8 @@
 - [Go Config Manager](https://github.com/num30/config)
 - [Go Generic Cache](https://github.com/num30/go-cache)
 
-## 😞 Not so active projects:
+## 😞 Inactive projects:
+  - I was an early contributor to Ukama project https://github.com/ukama/ukama/tree/cli-aws-cluster
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
   - Automock Visual Studio extension https://github.com/DenisPalnitsky/automock 
 
