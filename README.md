@@ -23,5 +23,3 @@
 ## :mortar_board: Engineering Principles
 [PRINCIPLES.md](https://github.com/DenisPalnitsky/DenisPalnitsky/blob/main/PRINCIPLES.md)
 
-## 😎 Cool Thing
-![](./profile-3d-contrib/profile-green-animate.svg)
