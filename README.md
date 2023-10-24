@@ -10,7 +10,7 @@
 - [Go Generic Cache](https://github.com/num30/go-cache)
 
 ## 😞 Inactive projects:
-  - I was an early contributor to Ukama project. Here is the code that mostly written by me:  [https://github.com/ukama/ukama/tree/cli-aws-cluster](https://github.com/ukama/ukama/tree/cli-aws-cluster/services/cloud)
+  - I was an early contributor to Ukama project. Here is the code:  [https://github.com/ukama/ukama/tree/cli-aws-cluster](https://github.com/ukama/ukama/tree/cli-aws-cluster/services/cloud)
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
   - Automock Visual Studio extension https://github.com/DenisPalnitsky/automock 
 
