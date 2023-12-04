@@ -8,10 +8,11 @@
 - [My open source project](https://github.com/num30) and my favorite [Go Config Manager](https://github.com/num30/config)
 - [Testhub.io](https://github.com/testhub-io/testhub)
 
-## :orange_book: Knowladge Sharing
+## :orange_book: Knowledge Sharing
+- [Medium](https://medium.com/@palnitsky)
 - [Architecture diagrams as code](https://engineering.solsten.io/posts/architecture-diagrams-at-solsten/) 
 - [Service(integration) tests in golang](https://github.com/num30/api-integration-test#readme)
-- 
+
 ## 😞 Inactive projects:
   - I was an early contributor to Ukama project. Here is the code:  [https://github.com/ukama/ukama/tree/cli-aws-cluster](https://github.com/ukama/ukama/tree/cli-aws-cluster/services/cloud)
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
