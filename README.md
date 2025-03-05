@@ -6,7 +6,6 @@
 ## 🤔 My active open-source projects
 
 - [My open source project](https://github.com/num30) and my favorite [Go Config Manager](https://github.com/num30/config)
-- [Testhub.io](https://github.com/testhub-io/testhub)
 
 ## :orange_book: Knowledge Sharing
 - [Medium](https://medium.com/@palnitsky)
