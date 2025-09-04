@@ -13,7 +13,7 @@
 - [Service(integration) tests in golang](https://github.com/num30/api-integration-test#readme)
 
 ## 😞 Inactive projects:
-  - I was an early contributor to Ukama project. Here is the code:  [https://github.com/ukama/ukama/tree/cli-aws-cluster](https://github.com/ukama/ukama/tree/cli-aws-cluster/services/cloud)
+  - I was an early contributor to [Ukama](https://github.com/ukama/ukama) project.
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
   - Automock Visual Studio extension https://github.com/DenisPalnitsky/automock 
 
