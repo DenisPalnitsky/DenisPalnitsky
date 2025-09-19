@@ -5,7 +5,9 @@
 
 ## 🤔 My active open-source projects
 
-- [My open source project](https://github.com/num30) and my favorite [Go Config Manager](https://github.com/num30/config)
+- [Tools](https://github.com/num30) and my favorite [Go Config Manager](https://github.com/num30/config)
+- [Calendly for tennis players](https://github.com/xtp-tour/xtp-tour)
+
 
 ## :orange_book: Knowledge Sharing
 - [Medium](https://medium.com/@palnitsky)
@@ -13,6 +15,7 @@
 - [Service(integration) tests in golang](https://github.com/num30/api-integration-test#readme)
 
 ## 😞 Inactive projects:
+  - [Tests Hub](https://github.com/testhub-io/testhub)
   - I was an early contributor to [Ukama](https://github.com/ukama/ukama) project.
   - Debug Time Search Visual Studio extension https://github.com/DenisPalnitsky/DebugTimeSearch
   - Automock Visual Studio extension https://github.com/DenisPalnitsky/automock 
